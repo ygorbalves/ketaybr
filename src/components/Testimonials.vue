@@ -5,12 +5,12 @@
     </div>
   <div class="testimonial-section"> 
     <div class="testimonial">
-        <img src="C:\Users\ygorf\Desktop\ketay\vue-project\src\assets\john.png" alt="Client Photo" class="testimonial-image">
+        <img src="../assets/john.png" alt="Client Photo" class="testimonial-image">
         <p class="testimonial-text" style="color: black;">"As ferramentas da Ketay são incríveis! Acelerou muito o processo de criação de conteúdo para o meu negócio."</p>
         <p class="testimonial-author">- John Doe, CEO.</p>
     </div>
     <div class="testimonial">
-        <img src="C:\Users\ygorf\Desktop\ketay\vue-project\src\assets\Jane.png" alt="Client Photo" class="testimonial-image">
+        <img src="../assets/Jane.png" alt="Client Photo" class="testimonial-image">
         <p class="testimonial-text" style="color: black;">"Ketay é demais! Recomendo muito!!"</p>
         <p class="testimonial-author">- Jane Smith, Digital Influencer.</p>
     </div>
