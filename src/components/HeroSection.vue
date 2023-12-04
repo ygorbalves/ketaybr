@@ -5,7 +5,7 @@
     <img src="../assets/logo.png" alt="Ketay Logo" class="hero-logo img-fluid mb-4">    
     <!-- Hero Content -->
     <div class="hero-content">
-      <h1 class="display-4 fw-bold mb-3">Revolucione suas estratégias de marketing com o poder da IA!</h1>
+      <h1 class="display-4 fw-bold mb-3">Revolucione suas Estratégias de Marketing com o Poder da IA!</h1>
       <router-link class="btn btn-outline-light btn-lg" to="/contact">Comece Agora</router-link>
     </div>
   </div>
